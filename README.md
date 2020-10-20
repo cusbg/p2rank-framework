@@ -11,3 +11,4 @@ P2Rank framework for ligan-binding site prediction is a loosely coupled framewor
 ## Documentation
 
 ## Datasets
+- https://github.com/rdk/p2rank-datasets
