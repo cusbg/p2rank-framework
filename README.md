@@ -17,7 +17,7 @@ The purpose of this document is to be the central entry point to the project con
 
 ## Documentation
 
-- The [framework architecture](https://github.com/cusbg/prankweb/wiki/PrankWeb-Architecture) from the point of view of the web server
+- [Wiki](https://github.com/cusbg/p2rank-framework/wiki) in this repository
 
 ## Datasets
 - https://github.com/rdk/p2rank-datasets
