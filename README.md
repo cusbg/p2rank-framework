@@ -1,6 +1,6 @@
 # P2Rank framework
 
-P2Rank framework is a loosely coupled framework of several components for ligand-binding site prediction. P2Rank is a ligand binding site prediction tools utilizing machine learning to identify sites on the surface on the input 3D protein structure capable of binding an unspecified small molecule. 
+P2Rank is a ligand binding site prediction tools utilizing machine learning to identify sites on the surface on the input 3D protein structure capable of binding an unspecified small molecule. P2Rank framework is a loosely coupled framework of several components with P2Rank at its core.
 
 The purpose of this document is to be the central entry point to the project containing links to the individual projects, including references to documentation, datasets, etc.
 
