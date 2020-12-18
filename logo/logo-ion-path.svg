@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="logo-ion-path.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg3954"
+   version="1.1"
+   viewBox="0 0 133.46721 40.892082"
+   height="40.892082mm"
+   width="133.46721mm">
+  <defs
+     id="defs3948" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="1972"
+     inkscape:window-height="1080"
+     inkscape:window-width="1261"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="868.70495"
+     inkscape:cx="36.507213"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata3951">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-61.7783,81.678183)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       id="path869"
+       style="fill:#00305a;fill-opacity:0.64;stroke:none;stroke-width:4.99999;stroke-opacity:1"
+       d="m 82.183254,-81.678173 a 20.446119,20.446119 0 0 0 -20.404954,20.44629 20.446119,20.446119 0 0 0 20.446296,20.445781 20.446119,20.446119 0 0 0 16.939535,-8.996352 12.561668,12.561668 0 0 1 -3.308842,0.44391 12.561668,12.561668 0 0 1 -12.561507,-12.561509 12.561668,12.561668 0 0 1 12.561507,-12.56203 12.561668,12.561668 0 0 1 2.107367,0.17829 20.446119,20.446119 0 0 0 -15.73806,-7.39438 20.446119,20.446119 0 0 0 -0.04134,0 z" />
+    <circle
+       style="fill:#2a2a2b;fill-opacity:0.55;stroke:none;stroke-width:3.13735;stroke-opacity:1"
+       id="path904"
+       cx="92.923294"
+       cy="-61.232143"
+       r="4.7795787" />
+    <g
+       transform="translate(14.20446,-180.44666)"
+       aria-label="P2RANK"
+       id="text835"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;line-height:1.25;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.389749">
+      <path
+         d="m 107.48382,111.10608 q 0.0533,-3.45596 -4.05733,-3.45596 h -9.005302 v 10.91597 h 2.527269 v -3.88225 h 6.478033 q 4.00404,0 4.05733,-3.57776 z m -10.535363,1.58335 v -3.0449 h 6.234433 q 1.78127,0 1.78127,1.46155 0,1.58335 -1.78127,1.58335 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.389749"
+         id="path4535" />
+      <path
+         d="m 117.14377,109.64453 q 2.32935,0 2.32935,1.19512 0,1.27125 -2.32935,1.27125 h -3.62343 q -4.55213,0 -4.60542,3.26566 v 3.18953 h 11.70765 l 1.35498,-0.9972 -1.35498,-0.99721 h -9.09664 v -1.19512 q 0,-1.27125 2.32935,-1.27125 h 3.62343 q 4.55213,0 4.60542,-3.26566 0.0533,-3.18953 -4.60542,-3.18953 h -7.10223 l -1.35499,0.9972 1.35499,0.99721 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.389749"
+         id="path4537" />
+      <path
+         d="m 133.67759,118.56609 h 2.81654 l -2.46637,-4.07255 q 2.37502,-0.63943 2.41308,-3.38746 0.0533,-3.45596 -4.05733,-3.45596 h -9.0053 v 10.91597 h 2.52727 v -3.88225 h 5.42754 z m -7.77211,-5.87666 v -3.0449 h 6.23444 q 1.78126,0 1.78126,1.46155 0,1.58335 -1.78126,1.58335 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.389749"
+         id="path4539" />
+      <path
+         d="m 143.10156,107.65012 -5.87666,10.91597 h 2.60339 l 0.79929,-1.46916 h 7.77973 l 0.79928,1.46916 h 2.60339 l -5.87666,-10.91597 z m -1.44633,7.55897 2.86221,-5.26007 2.86221,5.26007 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.389749"
+         id="path4541" />
+      <path
+         d="m 152.91376,107.65012 v 10.91597 h 2.51966 v -7.7645 l 7.87107,7.7645 h 2.93833 v -10.91597 h -2.51965 v 7.7645 l -7.87107,-7.7645 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.389749"
+         id="path4543" />
+      <path
+         d="m 167.92513,118.56609 h 2.51966 v -2.62622 l 2.72519,-2.35219 4.6587,4.97841 h 3.21237 l -6.09742,-6.50848 5.10783,-4.40749 h -3.41029 l -6.19638,5.3438 v -5.3438 h -2.51966 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.5899px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.389749"
+         id="path4545" />
+    </g>
+    <g
+       transform="translate(14.20446,-180.44666)"
+       aria-label="ION"
+       id="text835-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.38975">
+      <path
+         d="m 118.93315,130.77892 v -5.92833 h -1.36839 v 5.92833 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.38975"
+         id="path4548" />
+      <path
+         d="m 122.66626,124.85059 q -2.9931,0 -2.96417,2.93109 0.0289,2.99724 2.96417,2.99724 h 1.66191 q 2.93522,0 2.96416,-2.99724 0.0289,-2.93109 -2.96416,-2.93109 z m 1.48001,1.08314 q 1.77767,0 1.77767,1.84795 0,1.9141 -1.77767,1.9141 h -1.29811 q -1.77767,0 -1.77767,-1.9141 0,-1.84795 1.77767,-1.84795 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.38975"
+         id="path4550" />
+      <path
+         d="m 127.99927,124.85059 v 5.92833 h 1.36839 v -4.2168 l 4.27467,4.2168 h 1.59577 v -5.92833 h -1.36839 v 4.2168 l -4.27467,-4.2168 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Eternal Logo';-inkscape-font-specification:'Eternal Logo, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.38975"
+         id="path4552" />
+    </g>
+  </g>
+</svg>
