@@ -20,4 +20,8 @@ The purpose of this repository is to be the central entry point to the project c
 - [Wiki](https://github.com/cusbg/p2rank-framework/wiki) in this repository
 
 ## Datasets
-- https://github.com/rdk/p2rank-datasets
+- protein-ligand
+  - https://github.com/rdk/p2rank-datasets
+- protein-DNA
+  - https://github.com/cusbg/p2rank-data-dna
+
