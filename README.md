@@ -12,7 +12,7 @@ The purpose of this repository is to be the central entry point to the project c
 
 - [P2Rank code repository](https://github.com/rdk/p2rank) - the main app, serving also as the backend to the web
 - [PrankWeb code repository](https://github.com/cusbg/prankweb) - code for the web frontend
-- [Conservation pipeline](https://github.com/cusbg/sequence-conservation) - pipeline to compute conservation which is used as one of the P2rank features
+- [Old conservation pipeline](https://github.com/cusbg/sequence-conservation) - pipeline used to compute conservation which is used as one of the P2rank features. In PrankWeb3 this is replaced by HMM-based conservation available in the [PrankWeb repo](https://github.com/cusbg/prankweb/tree/main/conservation)
 - [PDBe-KB integration](https://github.com/cusbg/p2rank-pdbe-kb) - code used to share predictions with [PDBe-KB](https://www.ebi.ac.uk/pdbe/pdbe-kb)
 
 ## Documentation
