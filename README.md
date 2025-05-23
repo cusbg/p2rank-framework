@@ -27,6 +27,7 @@ The purpose of this repository is to be the central entry point to the project c
   - https://github.com/cusbg/p2rank-data-dna
 
 ## Publications
+- Lukáš Polák, Petr Škoda, Kamila Riedlová, Radoslav Krivák, Marian Novotný and David Hoksza. [PrankWeb 4: a modular web server for protein–ligand binding site prediction and downstream analysis](https://doi.org/10.1093/nar/gkaf421). Nucleic Acids Research. May 2025
 - Dávid Jakubec, Petr Škoda, Radoslav Krivák, Marian Novotný and David Hoksza. [PrankWeb 3: accelerated ligand-binding site predictions for experimental and modelled protein structures](https://doi.org/10.1093/nar/gkac389). Nucleic Acids Research. May 2022
 - Lukáš Jendele and Radoslav Krivák and Petr Škoda and Marian Novotný and David Hoksza. [PrankWeb: a web server for ligand binding site prediction and visualization](https://academic.oup.com/nar/article/47/W1/W345/5494740?login=true). Nucleic Acids Research. May 2019
 - Radoslav Krivák and David Hoksza. [P2Rank: machine learning based tool for rapid and accurate prediction of ligand binding sites from protein structure](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0285-8). Journal of Cheminformatics. Aug 2018
