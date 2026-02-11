@@ -18,7 +18,7 @@ The purpose of this repository is to be the central entry point to the project c
 ## Documentation
 
 - [Wiki](https://github.com/cusbg/p2rank-framework/wiki) in this repository
-- [P2Rank tutorials](https://github.com/rdk/p2rank/tree/develop/documantation) available for some more advanced topics (such as hyperparameter optimization) related to P2Rank backend (some information might overlap with the docs available in this repo)
+- [P2Rank tutorials](https://github.com/rdk/p2rank/tree/develop/documentation) available for some more advanced topics (such as hyperparameter optimization) related to P2Rank backend (some information might overlap with the docs available in this repo)
 
 ## Datasets
 - protein-ligand
